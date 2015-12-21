@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Tableau_Periodique><Element><Nom>Hydrogène</Nom><Numero_Atomique>1</Numero_Atomique><Masse_Atomique>1.00794</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>20.28</Point_Ebullition><Symbole>H</Symbole><Densite>
+      
+      0.00008988
+    </Densite><Configuration_Electronique>1s1 </Configuration_Electronique><Electronegativite>2.1</Electronegativite><Rayon_Atomique>2.08</Rayon_Atomique><Volume_Atomique>
+      14.1
+    </Volume_Atomique><Capacite_Thermique>
+      14.304
+    </Capacite_Thermique><Potentiel_Ionisation>13.598</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.1815
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>13.81</Point_Fusion><Enthalpie_Fusion>
+      0.0585
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.32</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>1</Ligne><Colonne>1</Colonne><Description>test</Description><Lien>http://fr.wikipedia.org/wiki/Hydrogène</Lien></Element><Element><Nom>Hélium</Nom><Numero_Atomique>2</Numero_Atomique><Masse_Atomique>4.0026</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>4.216</Point_Ebullition><Symbole>He</Symbole><Densite>
+      
+      0.0001785
+    </Densite><Configuration_Electronique>1s2 </Configuration_Electronique><Electronegativite>0</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>
+      31.8
+    </Volume_Atomique><Capacite_Thermique>
+      5.193
+    </Capacite_Thermique><Potentiel_Ionisation>24.587</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.152
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>0.95</Point_Fusion><Enthalpie_Fusion>
+      0.021
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.93</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Gaz rares</Caracteristique><Ligne>1</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Hélium</Lien></Element><Element><Nom>Lithium</Nom><Numero_Atomique>3</Numero_Atomique><Masse_Atomique>6.941</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>1615</Point_Ebullition><Symbole>Li</Symbole><Densite>
+      
+      0.53
+    </Densite><Configuration_Electronique>1s2 2s1 </Configuration_Electronique><Electronegativite>0.98</Electronegativite><Rayon_Atomique>1.55</Rayon_Atomique><Volume_Atomique>
+      13.1
+    </Volume_Atomique><Capacite_Thermique>
+      3.582
+    </Capacite_Thermique><Potentiel_Ionisation>5.392</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      84.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>453.7</Point_Fusion><Enthalpie_Fusion>
+      3
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.23</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalin</Caracteristique><Ligne>2</Ligne><Colonne>1</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Lithium</Lien></Element><Element><Nom>Béryllium</Nom><Numero_Atomique>4</Numero_Atomique><Masse_Atomique>9.01218</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>3243</Point_Ebullition><Symbole>Be</Symbole><Densite>
+      
+      1.85
+    </Densite><Configuration_Electronique>1s2 2s2 </Configuration_Electronique><Electronegativite>1.57</Electronegativite><Rayon_Atomique>1.12</Rayon_Atomique><Volume_Atomique>
+      5
+    </Volume_Atomique><Capacite_Thermique>
+      1.825
+    </Capacite_Thermique><Potentiel_Ionisation>9.322</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      200
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1560</Point_Fusion><Enthalpie_Fusion>
+      11.71
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.9</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalino-terreux</Caracteristique><Ligne>2</Ligne><Colonne>2</Colonne><Description>Bob</Description><Lien>http://fr.wikipedia.org/wiki/Béryllium</Lien></Element><Element><Nom>Bore</Nom><Numero_Atomique>5</Numero_Atomique><Masse_Atomique>10.811</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>4275</Point_Ebullition><Symbole>B</Symbole><Densite>
+      2.34
+    </Densite><Configuration_Electronique>1s2 2s2 2p1 </Configuration_Electronique><Electronegativite>2.04</Electronegativite><Rayon_Atomique>0.98</Rayon_Atomique><Volume_Atomique>
+      4.6
+    </Volume_Atomique><Capacite_Thermique>
+      1.026
+    </Capacite_Thermique><Potentiel_Ionisation>8.298</Potentiel_Ionisation><Conductivite_Thermique>
+      27
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2365</Point_Fusion><Enthalpie_Fusion>
+      22.6
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.82</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Métalloïde</Caracteristique><Ligne>2</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Bore</Lien></Element><Element><Nom>Carbone</Nom><Numero_Atomique>6</Numero_Atomique><Masse_Atomique>12.011</Masse_Atomique><Etat_Oxydation>+/-4, 2</Etat_Oxydation><Point_Ebullition>5100</Point_Ebullition><Symbole>C</Symbole><Densite>
+      
+      2.267
+    </Densite><Configuration_Electronique>1s2 2s2 2p2 </Configuration_Electronique><Electronegativite>2.55</Electronegativite><Rayon_Atomique>0.91</Rayon_Atomique><Volume_Atomique>
+      5.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.709
+    </Capacite_Thermique><Potentiel_Ionisation>11.26</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      155
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>3825</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.77</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Non-métal</Caracteristique><Ligne>2</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Carbone</Lien></Element><Element><Nom>Azote</Nom><Numero_Atomique>7</Numero_Atomique><Masse_Atomique>14.0067</Masse_Atomique><Etat_Oxydation>+/-3, 5, 4, 2</Etat_Oxydation><Point_Ebullition>77.344</Point_Ebullition><Symbole>N</Symbole><Densite>
+      
+      0.0012506
+    </Densite><Configuration_Electronique>1s2 2s2 2p3 </Configuration_Electronique><Electronegativite>3.04</Electronegativite><Rayon_Atomique>0.92</Rayon_Atomique><Volume_Atomique>
+      17.3
+    </Volume_Atomique><Capacite_Thermique>
+      1.042
+    </Capacite_Thermique><Potentiel_Ionisation>14.534</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.02598
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>63.15</Point_Fusion><Enthalpie_Fusion>
+      0.36
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.75</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Non-métal</Caracteristique><Ligne>2</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Azote</Lien></Element><Element><Nom>Oxygène</Nom><Numero_Atomique>8</Numero_Atomique><Masse_Atomique>15.9994</Masse_Atomique><Etat_Oxydation>-2</Etat_Oxydation><Point_Ebullition>90.188</Point_Ebullition><Symbole>O</Symbole><Densite>
+      
+      0.001429
+    </Densite><Configuration_Electronique>1s2 2s2 2p4 </Configuration_Electronique><Electronegativite>3.44</Electronegativite><Rayon_Atomique>0.65</Rayon_Atomique><Volume_Atomique>
+      14
+    </Volume_Atomique><Capacite_Thermique>
+      0.92
+    </Capacite_Thermique><Potentiel_Ionisation>13.618</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.2674
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>54.8</Point_Fusion><Enthalpie_Fusion>
+      0.222
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.73</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Non-métal</Caracteristique><Ligne>2</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Oxygène</Lien></Element><Element><Nom>Fluor</Nom><Numero_Atomique>9</Numero_Atomique><Masse_Atomique>18.9984</Masse_Atomique><Etat_Oxydation>-1</Etat_Oxydation><Point_Ebullition>85</Point_Ebullition><Symbole>F</Symbole><Densite>
+      
+      0.001696
+    </Densite><Configuration_Electronique>1s2 2s2 2p5 </Configuration_Electronique><Electronegativite>3.98</Electronegativite><Rayon_Atomique>0.57</Rayon_Atomique><Volume_Atomique>
+      17.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.824
+    </Capacite_Thermique><Potentiel_Ionisation>17.422</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.0279
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>53.55</Point_Fusion><Enthalpie_Fusion>
+      0.26
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.72</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Halogène</Caracteristique><Ligne>2</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Fluor</Lien></Element><Element><Nom>Néon</Nom><Numero_Atomique>10</Numero_Atomique><Masse_Atomique>20.1797</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>27.1</Point_Ebullition><Symbole>Ne</Symbole><Densite>
+      
+      0.0008999
+    </Densite><Configuration_Electronique>1s2 2s2 2p6 </Configuration_Electronique><Electronegativite>0</Electronegativite><Rayon_Atomique>0.51</Rayon_Atomique><Volume_Atomique>
+      16.9
+    </Volume_Atomique><Capacite_Thermique>
+      1.03
+    </Capacite_Thermique><Potentiel_Ionisation>21.564</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.0493
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>24.55</Point_Fusion><Enthalpie_Fusion>
+      0.34
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.71</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Gaz rares</Caracteristique><Ligne>2</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Néon</Lien></Element><Element><Nom>Sodium</Nom><Numero_Atomique>11</Numero_Atomique><Masse_Atomique>22.98977</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>1156</Point_Ebullition><Symbole>Na</Symbole><Densite>
+      
+      0.97
+    </Densite><Configuration_Electronique>[Ne] 3s1 </Configuration_Electronique><Electronegativite>0.93</Electronegativite><Rayon_Atomique>1.9</Rayon_Atomique><Volume_Atomique>
+      23.7
+    </Volume_Atomique><Capacite_Thermique>
+      1.23
+    </Capacite_Thermique><Potentiel_Ionisation>5.139</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      141
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>371</Point_Fusion><Enthalpie_Fusion>
+      2.601
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.54</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalin</Caracteristique><Ligne>3</Ligne><Colonne>1</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Sodium</Lien></Element><Element><Nom>Magnésium</Nom><Numero_Atomique>12</Numero_Atomique><Masse_Atomique>24.305</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>1380</Point_Ebullition><Symbole>Mg</Symbole><Densite>
+      
+      1.74
+    </Densite><Configuration_Electronique>[Ne] 3s2 </Configuration_Electronique><Electronegativite>1.31</Electronegativite><Rayon_Atomique>1.6</Rayon_Atomique><Volume_Atomique>
+      14
+    </Volume_Atomique><Capacite_Thermique>
+      1.02
+    </Capacite_Thermique><Potentiel_Ionisation>7.646</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      156
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>922</Point_Fusion><Enthalpie_Fusion>
+      8.95
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.36</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalino-terreux</Caracteristique><Ligne>3</Ligne><Colonne>2</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Magnésium</Lien></Element><Element><Nom>Aluminium</Nom><Numero_Atomique>13</Numero_Atomique><Masse_Atomique>26.98154</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>2740</Point_Ebullition><Symbole>Al</Symbole><Densite>
+      2.7
+    </Densite><Configuration_Electronique>[Ne] 3s2 3p1 </Configuration_Electronique><Electronegativite>1.61</Electronegativite><Rayon_Atomique>1.43</Rayon_Atomique><Volume_Atomique>
+      10
+    </Volume_Atomique><Capacite_Thermique>
+      0.9
+    </Capacite_Thermique><Potentiel_Ionisation>5.986</Potentiel_Ionisation><Conductivite_Thermique>
+      237
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>933.5</Point_Fusion><Enthalpie_Fusion>
+      10.7
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.18</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>3</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Aluminium</Lien></Element><Element><Nom>Silicium</Nom><Numero_Atomique>14</Numero_Atomique><Masse_Atomique>28.0855</Masse_Atomique><Etat_Oxydation>4</Etat_Oxydation><Point_Ebullition>2630</Point_Ebullition><Symbole>Si</Symbole><Densite>
+      
+      2.33
+    </Densite><Configuration_Electronique>[Ne] 3s2 3p2 </Configuration_Electronique><Electronegativite>1.9</Electronegativite><Rayon_Atomique>1.32</Rayon_Atomique><Volume_Atomique>
+      12.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.70
+    </Capacite_Thermique><Potentiel_Ionisation>8.151</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      148
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1683</Point_Fusion><Enthalpie_Fusion>
+      50.2
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.11</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Métalloïde</Caracteristique><Ligne>3</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Silicium</Lien></Element><Element><Nom>Phosphore</Nom><Numero_Atomique>15</Numero_Atomique><Masse_Atomique>30.97376</Masse_Atomique><Etat_Oxydation>+/-3, 5, 4</Etat_Oxydation><Point_Ebullition>553</Point_Ebullition><Symbole>P</Symbole><Densite>
+      
+      1.82
+    </Densite><Configuration_Electronique>[Ne] 3s2 3p3 </Configuration_Electronique><Electronegativite>2.19</Electronegativite><Rayon_Atomique>1.28</Rayon_Atomique><Volume_Atomique>
+      17
+    </Volume_Atomique><Capacite_Thermique>
+      0.769
+    </Capacite_Thermique><Potentiel_Ionisation>10.486</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.235
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>317.3</Point_Fusion><Enthalpie_Fusion>
+      0.63
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.06</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Non-métal</Caracteristique><Ligne>3</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Phosphore</Lien></Element><Element><Nom>Soufre</Nom><Numero_Atomique>16</Numero_Atomique><Masse_Atomique>32.066</Masse_Atomique><Etat_Oxydation>+/-2, 4, 6</Etat_Oxydation><Point_Ebullition>717.82</Point_Ebullition><Symbole>S</Symbole><Densite>
+      
+      2.07
+    </Densite><Configuration_Electronique>[Ne] 3s2 3p4 </Configuration_Electronique><Electronegativite>2.58</Electronegativite><Rayon_Atomique>1.27</Rayon_Atomique><Volume_Atomique>
+      15.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.71
+    </Capacite_Thermique><Potentiel_Ionisation>10.36</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.269
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>392.2</Point_Fusion><Enthalpie_Fusion>
+      1.73
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.02</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Non-métal</Caracteristique><Ligne>3</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Soufre</Lien></Element><Element><Nom>Chlore</Nom><Numero_Atomique>17</Numero_Atomique><Masse_Atomique>35.4527</Masse_Atomique><Etat_Oxydation>+/-1, 3, 5, 7</Etat_Oxydation><Point_Ebullition>239.18</Point_Ebullition><Symbole>Cl</Symbole><Densite>
+      
+      0.003214
+    </Densite><Configuration_Electronique>[Ne] 3s2 3p5 </Configuration_Electronique><Electronegativite>3.16</Electronegativite><Rayon_Atomique>0.97</Rayon_Atomique><Volume_Atomique>
+      18.7
+    </Volume_Atomique><Capacite_Thermique>
+      0.48
+    </Capacite_Thermique><Potentiel_Ionisation>12.967</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.0089
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>172.17</Point_Fusion><Enthalpie_Fusion>
+      3.21
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.99</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Halogène</Caracteristique><Ligne>3</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Chlore</Lien></Element><Element><Nom>Argon</Nom><Numero_Atomique>18</Numero_Atomique><Masse_Atomique>39.948</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>87.45</Point_Ebullition><Symbole>Ar</Symbole><Densite>
+      0.0017837
+    </Densite><Configuration_Electronique>[Ne] 3s2 3p6 </Configuration_Electronique><Electronegativite>0</Electronegativite><Rayon_Atomique>0.88</Rayon_Atomique><Volume_Atomique>
+      24.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.52
+    </Capacite_Thermique><Potentiel_Ionisation>15.759</Potentiel_Ionisation><Conductivite_Thermique>
+      0.0177
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>83.95</Point_Fusion><Enthalpie_Fusion>
+      1.188
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>0.98</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Gaz rares</Caracteristique><Ligne>3</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Argon</Lien></Element><Element><Nom>Potassium</Nom><Numero_Atomique>19</Numero_Atomique><Masse_Atomique>39.0983</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>1033</Point_Ebullition><Symbole>K</Symbole><Densite>
+      
+      0.86
+    </Densite><Configuration_Electronique>[Ar] 4s1 </Configuration_Electronique><Electronegativite>0.82</Electronegativite><Rayon_Atomique>2.35</Rayon_Atomique><Volume_Atomique>
+      45.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.757
+    </Capacite_Thermique><Potentiel_Ionisation>4.341</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      102.5
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>336.8</Point_Fusion><Enthalpie_Fusion>
+      2.33
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>2.03</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalin</Caracteristique><Ligne>4</Ligne><Colonne>1</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Potassium</Lien></Element><Element><Nom>Calcium</Nom><Numero_Atomique>20</Numero_Atomique><Masse_Atomique>40.078</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>1757</Point_Ebullition><Symbole>Ca</Symbole><Densite>
+      
+      1.54
+    </Densite><Configuration_Electronique>[Ar] 4s2 </Configuration_Electronique><Electronegativite>1</Electronegativite><Rayon_Atomique>1.97</Rayon_Atomique><Volume_Atomique>
+      29.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.647
+    </Capacite_Thermique><Potentiel_Ionisation>6.113</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      200
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1112</Point_Fusion><Enthalpie_Fusion>
+      8.53
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.74</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalino-terreux</Caracteristique><Ligne>4</Ligne><Colonne>2</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Calcium</Lien></Element><Element><Nom>Scandium</Nom><Numero_Atomique>21</Numero_Atomique><Masse_Atomique>44.9559</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3109</Point_Ebullition><Symbole>Sc</Symbole><Densite>
+      
+      2.99
+    </Densite><Configuration_Electronique>[Ar] 3d1 4s2 </Configuration_Electronique><Electronegativite>1.36</Electronegativite><Rayon_Atomique>1.62</Rayon_Atomique><Volume_Atomique>
+      15
+    </Volume_Atomique><Capacite_Thermique>
+      0.568
+    </Capacite_Thermique><Potentiel_Ionisation>6.54</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      15.8
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1814</Point_Fusion><Enthalpie_Fusion>
+      16.11
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.44</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>3</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Scandium</Lien></Element><Element><Nom>Titane</Nom><Numero_Atomique>22</Numero_Atomique><Masse_Atomique>47.88</Masse_Atomique><Etat_Oxydation>4, 3</Etat_Oxydation><Point_Ebullition>3560</Point_Ebullition><Symbole>Ti</Symbole><Densite>
+      
+      4.54
+    </Densite><Configuration_Electronique>[Ar] 3d2 4s2 </Configuration_Electronique><Electronegativite>1.54</Electronegativite><Rayon_Atomique>1.45</Rayon_Atomique><Volume_Atomique>
+      10.6
+    </Volume_Atomique><Capacite_Thermique>
+      0.523
+    </Capacite_Thermique><Potentiel_Ionisation>6.82</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      21.9
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1945</Point_Fusion><Enthalpie_Fusion>
+      18.6
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.32</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>4</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Titane</Lien></Element><Element><Nom>Vanadium</Nom><Numero_Atomique>23</Numero_Atomique><Masse_Atomique>50.9415</Masse_Atomique><Etat_Oxydation>5, 4, 3, 2</Etat_Oxydation><Point_Ebullition>3650</Point_Ebullition><Symbole>V</Symbole><Densite>
+      
+      6.11
+    </Densite><Configuration_Electronique>[Ar] 3d3 4s2 </Configuration_Electronique><Electronegativite>1.63</Electronegativite><Rayon_Atomique>1.34</Rayon_Atomique><Volume_Atomique>
+      8.35
+    </Volume_Atomique><Capacite_Thermique>
+      0.489
+    </Capacite_Thermique><Potentiel_Ionisation>6.74</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      30.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2163</Point_Fusion><Enthalpie_Fusion>
+      20.8
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.22</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>5</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Vanadium</Lien></Element><Element><Nom>Chrome</Nom><Numero_Atomique>24</Numero_Atomique><Masse_Atomique>51.996</Masse_Atomique><Etat_Oxydation>6, 3, 2</Etat_Oxydation><Point_Ebullition>2945</Point_Ebullition><Symbole>Cr</Symbole><Densite>
+      
+      7.15
+    </Densite><Configuration_Electronique>[Ar] 3d5 4s1 </Configuration_Electronique><Electronegativite>1.66</Electronegativite><Rayon_Atomique>1.3</Rayon_Atomique><Volume_Atomique>
+      7.23
+    </Volume_Atomique><Capacite_Thermique>
+      0.449
+    </Capacite_Thermique><Potentiel_Ionisation>6.766</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      93.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2130</Point_Fusion><Enthalpie_Fusion>
+      20
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.18</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>6</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Chrome</Lien></Element><Element><Nom>Manganèse</Nom><Numero_Atomique>25</Numero_Atomique><Masse_Atomique>54.938</Masse_Atomique><Etat_Oxydation>7, 6, 4, 2, 3</Etat_Oxydation><Point_Ebullition>2335</Point_Ebullition><Symbole>Mn</Symbole><Densite>
+      
+      7.44
+    </Densite><Configuration_Electronique>[Ar] 3d5 4s2 </Configuration_Electronique><Electronegativite>1.55</Electronegativite><Rayon_Atomique>1.35</Rayon_Atomique><Volume_Atomique>
+      7.39
+    </Volume_Atomique><Capacite_Thermique>
+      0.48
+    </Capacite_Thermique><Potentiel_Ionisation>7.435</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      7.82
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1518</Point_Fusion><Enthalpie_Fusion>
+      14.64
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.17</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>7</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Manganèse</Lien></Element><Element><Nom>Fer</Nom><Numero_Atomique>26</Numero_Atomique><Masse_Atomique>55.847</Masse_Atomique><Etat_Oxydation>2, 3</Etat_Oxydation><Point_Ebullition>3023</Point_Ebullition><Symbole>Fe</Symbole><Densite>
+      
+      7.874
+    </Densite><Configuration_Electronique>[Ar] 3d6 4s2 </Configuration_Electronique><Electronegativite>1.83</Electronegativite><Rayon_Atomique>1.26</Rayon_Atomique><Volume_Atomique>
+      7.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.449
+    </Capacite_Thermique><Potentiel_Ionisation>7.87</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      80.2
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1808</Point_Fusion><Enthalpie_Fusion>
+      13.8
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.17</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>8</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Fer</Lien></Element><Element><Nom>Cobalt</Nom><Numero_Atomique>27</Numero_Atomique><Masse_Atomique>58.9332</Masse_Atomique><Etat_Oxydation>2, 3</Etat_Oxydation><Point_Ebullition>3143</Point_Ebullition><Symbole>Co</Symbole><Densite>
+      
+      8.86
+    </Densite><Configuration_Electronique>[Ar] 3d7 4s2 </Configuration_Electronique><Electronegativite>1.88</Electronegativite><Rayon_Atomique>1.25</Rayon_Atomique><Volume_Atomique>
+      6.7
+    </Volume_Atomique><Capacite_Thermique>
+      0.421
+    </Capacite_Thermique><Potentiel_Ionisation>7.86</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      100
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1768</Point_Fusion><Enthalpie_Fusion>
+      16.19
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.16</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>9</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Cobalt</Lien></Element><Element><Nom>Nickel</Nom><Numero_Atomique>28</Numero_Atomique><Masse_Atomique>58.6934</Masse_Atomique><Etat_Oxydation>2, 3</Etat_Oxydation><Point_Ebullition>3005</Point_Ebullition><Symbole>Ni</Symbole><Densite>
+      
+      8.912
+    </Densite><Configuration_Electronique>[Ar] 3d8 4s2 </Configuration_Electronique><Electronegativite>1.91</Electronegativite><Rayon_Atomique>1.24</Rayon_Atomique><Volume_Atomique>
+      6.6
+    </Volume_Atomique><Capacite_Thermique>
+      0.444
+    </Capacite_Thermique><Potentiel_Ionisation>7.635</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      90.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1726</Point_Fusion><Enthalpie_Fusion>
+      17.2
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.15</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>10</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Nickel</Lien></Element><Element><Nom>Cuivre</Nom><Numero_Atomique>29</Numero_Atomique><Masse_Atomique>63.546</Masse_Atomique><Etat_Oxydation>2, 1</Etat_Oxydation><Point_Ebullition>2840</Point_Ebullition><Symbole>Cu</Symbole><Densite>
+      
+      8.96
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s1 </Configuration_Electronique><Electronegativite>1.9</Electronegativite><Rayon_Atomique>1.28</Rayon_Atomique><Volume_Atomique>
+      7.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.385
+    </Capacite_Thermique><Potentiel_Ionisation>7.726</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      401
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1356.6</Point_Fusion><Enthalpie_Fusion>
+      13.14
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.17</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>11</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Cuivre</Lien></Element><Element><Nom>Zinc</Nom><Numero_Atomique>30</Numero_Atomique><Masse_Atomique>65.39</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>1180</Point_Ebullition><Symbole>Zn</Symbole><Densite>
+      
+      7.13
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 </Configuration_Electronique><Electronegativite>1.65</Electronegativite><Rayon_Atomique>1.38</Rayon_Atomique><Volume_Atomique>
+      9.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.388
+    </Capacite_Thermique><Potentiel_Ionisation>9.394</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      116
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>692.73</Point_Fusion><Enthalpie_Fusion>
+      7.38
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.25</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>4</Ligne><Colonne>12</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Zinc</Lien></Element><Element><Nom>Gallium</Nom><Numero_Atomique>31</Numero_Atomique><Masse_Atomique>69.723</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>2478</Point_Ebullition><Symbole>Ga</Symbole><Densite>
+      
+      5.91
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 4p1 </Configuration_Electronique><Electronegativite>1.81</Electronegativite><Rayon_Atomique>1.41</Rayon_Atomique><Volume_Atomique>
+      11.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.371
+    </Capacite_Thermique><Potentiel_Ionisation>5.999</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      40.6
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>302.92</Point_Fusion><Enthalpie_Fusion>
+      5.59
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.26</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>4</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Gallium</Lien></Element><Element><Nom>Germanium</Nom><Numero_Atomique>32</Numero_Atomique><Masse_Atomique>72.61</Masse_Atomique><Etat_Oxydation>4</Etat_Oxydation><Point_Ebullition>3107</Point_Ebullition><Symbole>Ge</Symbole><Densite>
+      
+      5.32
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 4p2 </Configuration_Electronique><Electronegativite>2.01</Electronegativite><Rayon_Atomique>1.37</Rayon_Atomique><Volume_Atomique>
+      13.6
+    </Volume_Atomique><Capacite_Thermique>
+      0.32
+    </Capacite_Thermique><Potentiel_Ionisation>7.899</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      59.9
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1211.5</Point_Fusion><Enthalpie_Fusion>
+      31.8
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.22</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Métalloïde</Caracteristique><Ligne>4</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Germanium</Lien></Element><Element><Nom>Arsenic</Nom><Numero_Atomique>33</Numero_Atomique><Masse_Atomique>74.9216</Masse_Atomique><Etat_Oxydation>+/-3, 5</Etat_Oxydation><Point_Ebullition>876</Point_Ebullition><Symbole>As</Symbole><Densite>
+      5.78
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 4p3 </Configuration_Electronique><Electronegativite>2.18</Electronegativite><Rayon_Atomique>1.39</Rayon_Atomique><Volume_Atomique>
+      13.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.33
+    </Capacite_Thermique><Potentiel_Ionisation>9.81</Potentiel_Ionisation><Conductivite_Thermique>
+      50
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1090</Point_Fusion><Enthalpie_Fusion>
+      27.7
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.2</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Métalloïde</Caracteristique><Ligne>4</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Arsenic</Lien></Element><Element><Nom>Sélénium</Nom><Numero_Atomique>34</Numero_Atomique><Masse_Atomique>78.96</Masse_Atomique><Etat_Oxydation>-2, 4, 6</Etat_Oxydation><Point_Ebullition>958</Point_Ebullition><Symbole>Se</Symbole><Densite>
+      
+      4.809
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 4p4 </Configuration_Electronique><Electronegativite>2.55</Electronegativite><Rayon_Atomique>1.4</Rayon_Atomique><Volume_Atomique>
+      16.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.32
+    </Capacite_Thermique><Potentiel_Ionisation>9.752</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      2.04
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>494</Point_Fusion><Enthalpie_Fusion>
+      5.54
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.16</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Non-métal</Caracteristique><Ligne>4</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Sélénium</Lien></Element><Element><Nom>Brome</Nom><Numero_Atomique>35</Numero_Atomique><Masse_Atomique>79.904</Masse_Atomique><Etat_Oxydation>+/-1, 5</Etat_Oxydation><Point_Ebullition>331.85</Point_Ebullition><Symbole>Br</Symbole><Densite>
+      
+      3.12
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 4p5 </Configuration_Electronique><Electronegativite>2.96</Electronegativite><Rayon_Atomique>1.12</Rayon_Atomique><Volume_Atomique>
+      23.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.226
+    </Capacite_Thermique><Potentiel_Ionisation>11.814</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.122
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>liquide</Etat><Point_Fusion>265.95</Point_Fusion><Enthalpie_Fusion>
+      5.286
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.14</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Halogène</Caracteristique><Ligne>4</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Brome</Lien></Element><Element><Nom>Krypton</Nom><Numero_Atomique>36</Numero_Atomique><Masse_Atomique>83.8</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>120.85</Point_Ebullition><Symbole>Kr</Symbole><Densite>
+      
+      0.003733
+    </Densite><Configuration_Electronique>[Ar] 3d10 4s2 4p6 </Configuration_Electronique><Electronegativite>0</Electronegativite><Rayon_Atomique>1.03</Rayon_Atomique><Volume_Atomique>
+      32.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.248
+    </Capacite_Thermique><Potentiel_Ionisation>13.999</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.00949
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>116</Point_Fusion><Enthalpie_Fusion>
+      1.638
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.89</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Gaz rares</Caracteristique><Ligne>4</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Krypton</Lien></Element><Element><Nom>Rubidium</Nom><Numero_Atomique>37</Numero_Atomique><Masse_Atomique>85.4678</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>961</Point_Ebullition><Symbole>Rb</Symbole><Densite>
+      
+      1.532
+    </Densite><Configuration_Electronique>[Kr] 5s1 </Configuration_Electronique><Electronegativite>0.82</Electronegativite><Rayon_Atomique>2.48</Rayon_Atomique><Volume_Atomique>
+      55.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.363
+    </Capacite_Thermique><Potentiel_Ionisation>4.177</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      58.2
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>312.63</Point_Fusion><Enthalpie_Fusion>
+      2.34
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>2.16</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalin</Caracteristique><Ligne>5</Ligne><Colonne>1</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Rubidium</Lien></Element><Element><Nom>Strontium</Nom><Numero_Atomique>38</Numero_Atomique><Masse_Atomique>87.62</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>1655</Point_Ebullition><Symbole>Sr</Symbole><Densite>
+      
+      2.64
+    </Densite><Configuration_Electronique>[Kr] 5s2 </Configuration_Electronique><Electronegativite>0.95</Electronegativite><Rayon_Atomique>2.15</Rayon_Atomique><Volume_Atomique>
+      33.7
+    </Volume_Atomique><Capacite_Thermique>
+      0.3
+    </Capacite_Thermique><Potentiel_Ionisation>5.695</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      35.3
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1042</Point_Fusion><Enthalpie_Fusion>
+      8.2
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.91</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalino-terreux</Caracteristique><Ligne>5</Ligne><Colonne>2</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Strontium</Lien></Element><Element><Nom>Yttrium</Nom><Numero_Atomique>39</Numero_Atomique><Masse_Atomique>88.9059</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3611</Point_Ebullition><Symbole>Y</Symbole><Densite>
+      
+      4.47
+    </Densite><Configuration_Electronique>[Kr] 4d1 5s2 </Configuration_Electronique><Electronegativite>1.22</Electronegativite><Rayon_Atomique>1.78</Rayon_Atomique><Volume_Atomique>
+      19.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.3
+    </Capacite_Thermique><Potentiel_Ionisation>6.38</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      17.2
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1795</Point_Fusion><Enthalpie_Fusion>
+      17.5
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.62</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>3</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Yttrium</Lien></Element><Element><Nom>Zirconium</Nom><Numero_Atomique>40</Numero_Atomique><Masse_Atomique>91.224</Masse_Atomique><Etat_Oxydation>4</Etat_Oxydation><Point_Ebullition>4682</Point_Ebullition><Symbole>Zr</Symbole><Densite>
+      
+      6.51
+    </Densite><Configuration_Electronique>[Kr] 4d2 5s2 </Configuration_Electronique><Electronegativite>1.33</Electronegativite><Rayon_Atomique>1.6</Rayon_Atomique><Volume_Atomique>
+      14.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.278
+    </Capacite_Thermique><Potentiel_Ionisation>6.84</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      22.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2128</Point_Fusion><Enthalpie_Fusion>
+      21
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.45</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>4</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Zirconium</Lien></Element><Element><Nom>Niobium</Nom><Numero_Atomique>41</Numero_Atomique><Masse_Atomique>92.9064</Masse_Atomique><Etat_Oxydation>5, 3</Etat_Oxydation><Point_Ebullition>5015</Point_Ebullition><Symbole>Nb</Symbole><Densite>
+      
+      8.57
+    </Densite><Configuration_Electronique>[Kr] 4d4 5s1 </Configuration_Electronique><Electronegativite>1.6</Electronegativite><Rayon_Atomique>1.46</Rayon_Atomique><Volume_Atomique>
+      10.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.265
+    </Capacite_Thermique><Potentiel_Ionisation>6.88</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      53.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2742</Point_Fusion><Enthalpie_Fusion>
+      26.9
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.34</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>5</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Niobium</Lien></Element><Element><Nom>Molybdène</Nom><Numero_Atomique>42</Numero_Atomique><Masse_Atomique>95.94</Masse_Atomique><Etat_Oxydation>6, 5, 4, 3, 2</Etat_Oxydation><Point_Ebullition>4912</Point_Ebullition><Symbole>Mo</Symbole><Densite>
+      
+      10.22
+    </Densite><Configuration_Electronique>[Kr] 4d5 5s1 </Configuration_Electronique><Electronegativite>2.16</Electronegativite><Rayon_Atomique>1.39</Rayon_Atomique><Volume_Atomique>
+      9.4
+    </Volume_Atomique><Capacite_Thermique>
+      0.25
+    </Capacite_Thermique><Potentiel_Ionisation>7.099</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      138
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2896</Point_Fusion><Enthalpie_Fusion>
+      36
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.3</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>6</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Molybdène</Lien></Element><Element><Nom>Technétium</Nom><Numero_Atomique>43</Numero_Atomique><Masse_Atomique>98</Masse_Atomique><Etat_Oxydation>7</Etat_Oxydation><Point_Ebullition>4538</Point_Ebullition><Symbole>Tc</Symbole><Densite>
+      
+      11.5
+    </Densite><Configuration_Electronique>[Kr] 4d5 5s2 </Configuration_Electronique><Electronegativite>1.9</Electronegativite><Rayon_Atomique>1.36</Rayon_Atomique><Volume_Atomique>
+      8.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.24
+    </Capacite_Thermique><Potentiel_Ionisation>7.28</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      50.6
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>2477</Point_Fusion><Enthalpie_Fusion>
+      23
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.27</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>7</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Technétium</Lien></Element><Element><Nom>Ruthénium</Nom><Numero_Atomique>44</Numero_Atomique><Masse_Atomique>101.07</Masse_Atomique><Etat_Oxydation>2, 3, 4, 6, 8</Etat_Oxydation><Point_Ebullition>4425</Point_Ebullition><Symbole>Ru</Symbole><Densite>
+      
+      12.37
+    </Densite><Configuration_Electronique>[Kr] 4d7 5s1 </Configuration_Electronique><Electronegativite>2.2</Electronegativite><Rayon_Atomique>1.34</Rayon_Atomique><Volume_Atomique>
+      8.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.238
+    </Capacite_Thermique><Potentiel_Ionisation>7.37</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      117
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2610</Point_Fusion><Enthalpie_Fusion>
+      25.52
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.25</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>8</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Ruthénium</Lien></Element><Element><Nom>Rhodium</Nom><Numero_Atomique>45</Numero_Atomique><Masse_Atomique>102.9055</Masse_Atomique><Etat_Oxydation>2, 3, 4</Etat_Oxydation><Point_Ebullition>3970</Point_Ebullition><Symbole>Rh</Symbole><Densite>
+      
+      12.41
+    </Densite><Configuration_Electronique>[Kr] 4d8 5s1 </Configuration_Electronique><Electronegativite>2.28</Electronegativite><Rayon_Atomique>1.34</Rayon_Atomique><Volume_Atomique>
+      8.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.242
+    </Capacite_Thermique><Potentiel_Ionisation>7.46</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      150
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2236</Point_Fusion><Enthalpie_Fusion>
+      21.76
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.25</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>9</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Rhodium</Lien></Element><Element><Nom>Palladium</Nom><Numero_Atomique>46</Numero_Atomique><Masse_Atomique>106.42</Masse_Atomique><Etat_Oxydation>2, 4</Etat_Oxydation><Point_Ebullition>3240</Point_Ebullition><Symbole>Pd</Symbole><Densite>
+      
+      12
+    </Densite><Configuration_Electronique>[Kr] 4d10 </Configuration_Electronique><Electronegativite>2.2</Electronegativite><Rayon_Atomique>1.37</Rayon_Atomique><Volume_Atomique>
+      8.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.244
+    </Capacite_Thermique><Potentiel_Ionisation>8.34</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      71.8
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1825</Point_Fusion><Enthalpie_Fusion>
+      16.74
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.28</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>10</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Palladium</Lien></Element><Element><Nom>Argent</Nom><Numero_Atomique>47</Numero_Atomique><Masse_Atomique>107.868</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>2436</Point_Ebullition><Symbole>Ag</Symbole><Densite>
+      
+      10.5
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s1 </Configuration_Electronique><Electronegativite>1.93</Electronegativite><Rayon_Atomique>1.44</Rayon_Atomique><Volume_Atomique>
+      10.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.232
+    </Capacite_Thermique><Potentiel_Ionisation>7.576</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      429
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1235.08</Point_Fusion><Enthalpie_Fusion>
+      11.3
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.34</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>11</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Argent</Lien></Element><Element><Nom>Cadmium</Nom><Numero_Atomique>48</Numero_Atomique><Masse_Atomique>112.41</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>1040</Point_Ebullition><Symbole>Cd</Symbole><Densite>
+      
+      8.69
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 </Configuration_Electronique><Electronegativite>1.69</Electronegativite><Rayon_Atomique>1.71</Rayon_Atomique><Volume_Atomique>
+      13.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.233
+    </Capacite_Thermique><Potentiel_Ionisation>8.993</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      96.8
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>594.26</Point_Fusion><Enthalpie_Fusion>
+      6.07
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.41</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>5</Ligne><Colonne>12</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Cadmium</Lien></Element><Element><Nom>Indium</Nom><Numero_Atomique>49</Numero_Atomique><Masse_Atomique>114.82</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>2350</Point_Ebullition><Symbole>In</Symbole><Densite>
+      
+      7.31
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 5p1 </Configuration_Electronique><Electronegativite>1.78</Electronegativite><Rayon_Atomique>1.66</Rayon_Atomique><Volume_Atomique>
+      15.7
+    </Volume_Atomique><Capacite_Thermique>
+      0.233
+    </Capacite_Thermique><Potentiel_Ionisation>5.786</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      81.6
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>429.78</Point_Fusion><Enthalpie_Fusion>
+      3.26
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.44</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>5</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Indium</Lien></Element><Element><Nom>Étain</Nom><Numero_Atomique>50</Numero_Atomique><Masse_Atomique>118.71</Masse_Atomique><Etat_Oxydation>4, 2</Etat_Oxydation><Point_Ebullition>2876</Point_Ebullition><Symbole>Sn</Symbole><Densite>
+      
+      7.287
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 5p2 </Configuration_Electronique><Electronegativite>1.96</Electronegativite><Rayon_Atomique>1.62</Rayon_Atomique><Volume_Atomique>
+      16.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.228
+    </Capacite_Thermique><Potentiel_Ionisation>7.344</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      66.6
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>505.12</Point_Fusion><Enthalpie_Fusion>
+      7.2
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.41</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>5</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Étain</Lien></Element><Element><Nom>Antimoine</Nom><Numero_Atomique>51</Numero_Atomique><Masse_Atomique>121.757</Masse_Atomique><Etat_Oxydation>+/-3, 5</Etat_Oxydation><Point_Ebullition>1860</Point_Ebullition><Symbole>Sb</Symbole><Densite>
+      6.69
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 5p3 </Configuration_Electronique><Electronegativite>2.05</Electronegativite><Rayon_Atomique>1.59</Rayon_Atomique><Volume_Atomique>
+      18.4
+    </Volume_Atomique><Capacite_Thermique>
+      0.207
+    </Capacite_Thermique><Potentiel_Ionisation>8.641</Potentiel_Ionisation><Conductivite_Thermique>
+      24.3
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>903.91</Point_Fusion><Enthalpie_Fusion>
+      19.83
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.4</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Métalloïde</Caracteristique><Ligne>5</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Antimoine</Lien></Element><Element><Nom>Tellure</Nom><Numero_Atomique>52</Numero_Atomique><Masse_Atomique>127.6</Masse_Atomique><Etat_Oxydation>-2, 4, 6</Etat_Oxydation><Point_Ebullition>1261</Point_Ebullition><Symbole>Te</Symbole><Densite>
+      
+      6.232
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 5p4 </Configuration_Electronique><Electronegativite>2.1</Electronegativite><Rayon_Atomique>1.42</Rayon_Atomique><Volume_Atomique>
+      20.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.202
+    </Capacite_Thermique><Potentiel_Ionisation>9.009</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      2.35
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>722.72</Point_Fusion><Enthalpie_Fusion>
+      17.49
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.36</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Métalloïde</Caracteristique><Ligne>5</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Tellure</Lien></Element><Element><Nom>Iode</Nom><Numero_Atomique>53</Numero_Atomique><Masse_Atomique>126.9045</Masse_Atomique><Etat_Oxydation>+/-1, 3, 5, 7</Etat_Oxydation><Point_Ebullition>457.5</Point_Ebullition><Symbole>I</Symbole><Densite>
+      
+      4.93
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 5p5 </Configuration_Electronique><Electronegativite>2.66</Electronegativite><Rayon_Atomique>1.32</Rayon_Atomique><Volume_Atomique>
+      25.7
+    </Volume_Atomique><Capacite_Thermique>
+      0.145
+    </Capacite_Thermique><Potentiel_Ionisation>10.451</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.449
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>386.7</Point_Fusion><Enthalpie_Fusion>
+      7.76
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.33</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Halogène</Caracteristique><Ligne>5</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Iode</Lien></Element><Element><Nom>Xénon</Nom><Numero_Atomique>54</Numero_Atomique><Masse_Atomique>131.29</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>165.1</Point_Ebullition><Symbole>Xe</Symbole><Densite>
+      
+      0.005887
+    </Densite><Configuration_Electronique>[Kr] 4d10 5s2 5p6 </Configuration_Electronique><Electronegativite>2.6</Electronegativite><Rayon_Atomique>1.24</Rayon_Atomique><Volume_Atomique>
+      42.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.158
+    </Capacite_Thermique><Potentiel_Ionisation>12.13</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.00569
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>gazeux</Etat><Point_Fusion>161.39</Point_Fusion><Enthalpie_Fusion>
+      2.3
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.31</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Gaz rares</Caracteristique><Ligne>5</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Xénon</Lien></Element><Element><Nom>Césium</Nom><Numero_Atomique>55</Numero_Atomique><Masse_Atomique>132.9054</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>944</Point_Ebullition><Symbole>Cs</Symbole><Densite>
+      
+      1.87
+    </Densite><Configuration_Electronique>[Xe] 6s1 </Configuration_Electronique><Electronegativite>0.79</Electronegativite><Rayon_Atomique>2.67</Rayon_Atomique><Volume_Atomique>
+      70
+    </Volume_Atomique><Capacite_Thermique>
+      0.24
+    </Capacite_Thermique><Potentiel_Ionisation>3.894</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      35.9
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>301.54</Point_Fusion><Enthalpie_Fusion>
+      2.092
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>2.35</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalin</Caracteristique><Ligne>6</Ligne><Colonne>1</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Césium</Lien></Element><Element><Nom>Baryum</Nom><Numero_Atomique>56</Numero_Atomique><Masse_Atomique>137.33</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>2078</Point_Ebullition><Symbole>Ba</Symbole><Densite>
+      3.59
+    </Densite><Configuration_Electronique>[Xe] 6s2 </Configuration_Electronique><Electronegativite>0.89</Electronegativite><Rayon_Atomique>2.22</Rayon_Atomique><Volume_Atomique>
+      39
+    </Volume_Atomique><Capacite_Thermique>
+      0.204
+    </Capacite_Thermique><Potentiel_Ionisation>5.212</Potentiel_Ionisation><Conductivite_Thermique>
+      18.4
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1002</Point_Fusion><Enthalpie_Fusion>
+      8.01
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.98</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Alcalino-terreux</Caracteristique><Ligne>6</Ligne><Colonne>2</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Baryum</Lien></Element><Element><Nom>Lanthane</Nom><Numero_Atomique>57</Numero_Atomique><Masse_Atomique>138.9055</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3737</Point_Ebullition><Symbole>La</Symbole><Densite>
+      
+      6.15
+    </Densite><Configuration_Electronique>[Xe] 5d1 6s2 </Configuration_Electronique><Electronegativite>1.1</Electronegativite><Rayon_Atomique>1.38</Rayon_Atomique><Volume_Atomique>
+      22.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.19
+    </Capacite_Thermique><Potentiel_Ionisation>5.58</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      13.5
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1191</Point_Fusion><Enthalpie_Fusion>
+      11.3
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.25</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>4</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Lanthane</Lien></Element><Element><Nom>Cérium</Nom><Numero_Atomique>58</Numero_Atomique><Masse_Atomique>140.12</Masse_Atomique><Etat_Oxydation>3, 4</Etat_Oxydation><Point_Ebullition>3715</Point_Ebullition><Symbole>Ce</Symbole><Densite>
+      
+      6.77
+    </Densite><Configuration_Electronique>[Xe] 4f1 5d1 6s2 </Configuration_Electronique><Electronegativite>1.12</Electronegativite><Rayon_Atomique>1.81</Rayon_Atomique><Volume_Atomique>
+      21
+    </Volume_Atomique><Capacite_Thermique>
+      0.19
+    </Capacite_Thermique><Potentiel_Ionisation>5.47</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      11.4
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1071</Point_Fusion><Enthalpie_Fusion>
+      9.2
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.65</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>5</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Cérium</Lien></Element><Element><Nom>Praséodyme</Nom><Numero_Atomique>59</Numero_Atomique><Masse_Atomique>140.9077</Masse_Atomique><Etat_Oxydation>3, 4</Etat_Oxydation><Point_Ebullition>3785</Point_Ebullition><Symbole>Pr</Symbole><Densite>
+      
+      6.77
+    </Densite><Configuration_Electronique>[Xe] 4f3 6s2 </Configuration_Electronique><Electronegativite>1.13</Electronegativite><Rayon_Atomique>1.82</Rayon_Atomique><Volume_Atomique>
+      20.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.193
+    </Capacite_Thermique><Potentiel_Ionisation>5.42</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      12.5
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1204</Point_Fusion><Enthalpie_Fusion>
+      10.04
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.65</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>6</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Praséodyme</Lien></Element><Element><Nom>Neodyme</Nom><Numero_Atomique>60</Numero_Atomique><Masse_Atomique>144.24</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3347</Point_Ebullition><Symbole>Nd</Symbole><Densite>
+      
+      7.01
+    </Densite><Configuration_Electronique>[Xe] 4f4 6s2 </Configuration_Electronique><Electronegativite>1.14</Electronegativite><Rayon_Atomique>1.82</Rayon_Atomique><Volume_Atomique>
+      20.6
+    </Volume_Atomique><Capacite_Thermique>
+      0.19
+    </Capacite_Thermique><Potentiel_Ionisation>5.49</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      16.5
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1294</Point_Fusion><Enthalpie_Fusion>
+      10.88
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.64</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>7</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Neodyme</Lien></Element><Element><Nom>Prométhium</Nom><Numero_Atomique>61</Numero_Atomique><Masse_Atomique>145</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3273</Point_Ebullition><Symbole>Pm</Symbole><Densite>
+      
+      7.26
+    </Densite><Configuration_Electronique>[Xe] 4f5 6s2 </Configuration_Electronique><Electronegativite>1.13</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>
+      22.4
+    </Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>5.55</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      17.9
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1315</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.63</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>8</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Prométhium</Lien></Element><Element><Nom>Samarium</Nom><Numero_Atomique>62</Numero_Atomique><Masse_Atomique>150.36</Masse_Atomique><Etat_Oxydation>3, 2</Etat_Oxydation><Point_Ebullition>2067</Point_Ebullition><Symbole>Sm</Symbole><Densite>
+      
+      7.52
+    </Densite><Configuration_Electronique>[Xe] 4f6 6s2 </Configuration_Electronique><Electronegativite>1.17</Electronegativite><Rayon_Atomique>1.81</Rayon_Atomique><Volume_Atomique>
+      19.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.197
+    </Capacite_Thermique><Potentiel_Ionisation>5.63</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      13.3
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1347</Point_Fusion><Enthalpie_Fusion>
+      11.09
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.62</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>9</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Samarium</Lien></Element><Element><Nom>Europium</Nom><Numero_Atomique>63</Numero_Atomique><Masse_Atomique>151.965</Masse_Atomique><Etat_Oxydation>3, 2</Etat_Oxydation><Point_Ebullition>1800</Point_Ebullition><Symbole>Eu</Symbole><Densite>
+      
+      5.24
+    </Densite><Configuration_Electronique>[Xe] 4f7 6s2 </Configuration_Electronique><Electronegativite>1.2</Electronegativite><Rayon_Atomique>1.99</Rayon_Atomique><Volume_Atomique>
+      28.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.182
+    </Capacite_Thermique><Potentiel_Ionisation>5.67</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      13.9
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1095</Point_Fusion><Enthalpie_Fusion>
+      9.21
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.85</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>10</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Europium</Lien></Element><Element><Nom>Gadolinium</Nom><Numero_Atomique>64</Numero_Atomique><Masse_Atomique>157.25</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3545</Point_Ebullition><Symbole>Gd</Symbole><Densite>
+      
+      7.9
+    </Densite><Configuration_Electronique>[Xe] 4f7 5d1 6s2 </Configuration_Electronique><Electronegativite>1.2</Electronegativite><Rayon_Atomique>1.8</Rayon_Atomique><Volume_Atomique>
+      19.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.236
+    </Capacite_Thermique><Potentiel_Ionisation>6.15</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10.6
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1585</Point_Fusion><Enthalpie_Fusion>
+      10.46
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.61</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>11</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Gadolinium</Lien></Element><Element><Nom>Terbium</Nom><Numero_Atomique>65</Numero_Atomique><Masse_Atomique>158.9253</Masse_Atomique><Etat_Oxydation>3, 4</Etat_Oxydation><Point_Ebullition>3500</Point_Ebullition><Symbole>Tb</Symbole><Densite>
+      
+      8.23
+    </Densite><Configuration_Electronique>[Xe] 4f9 6s2 </Configuration_Electronique><Electronegativite>1.1</Electronegativite><Rayon_Atomique>1.8</Rayon_Atomique><Volume_Atomique>
+      19.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.18
+    </Capacite_Thermique><Potentiel_Ionisation>5.86</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      11.1
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1629</Point_Fusion><Enthalpie_Fusion>
+      15.48
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.59</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>12</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Terbium</Lien></Element><Element><Nom>Dysprosium</Nom><Numero_Atomique>66</Numero_Atomique><Masse_Atomique>162.5</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>2840</Point_Ebullition><Symbole>Dy</Symbole><Densite>
+      
+      8.55
+    </Densite><Configuration_Electronique>[Xe] 4f10 6s2 </Configuration_Electronique><Electronegativite>1.22</Electronegativite><Rayon_Atomique>1.8</Rayon_Atomique><Volume_Atomique>
+      19
+    </Volume_Atomique><Capacite_Thermique>
+      0.173
+    </Capacite_Thermique><Potentiel_Ionisation>5.93</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10.7
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1685</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.59</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Dysprosium</Lien></Element><Element><Nom>Holmium</Nom><Numero_Atomique>67</Numero_Atomique><Masse_Atomique>164.9303</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>2968</Point_Ebullition><Symbole>Ho</Symbole><Densite>
+      
+      8.8
+    </Densite><Configuration_Electronique>[Xe] 4f11 6s2 </Configuration_Electronique><Electronegativite>1.23</Electronegativite><Rayon_Atomique>1.79</Rayon_Atomique><Volume_Atomique>
+      18.7
+    </Volume_Atomique><Capacite_Thermique>
+      0.165
+    </Capacite_Thermique><Potentiel_Ionisation>6.02</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      16.2
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1747</Point_Fusion><Enthalpie_Fusion>
+      11.06
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.58</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Holmium</Lien></Element><Element><Nom>Erbium</Nom><Numero_Atomique>68</Numero_Atomique><Masse_Atomique>167.26</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3140</Point_Ebullition><Symbole>Er</Symbole><Densite>
+      
+      9.07
+    </Densite><Configuration_Electronique>[Xe] 4f12 6s2 </Configuration_Electronique><Electronegativite>1.24</Electronegativite><Rayon_Atomique>1.78</Rayon_Atomique><Volume_Atomique>
+      18.4
+    </Volume_Atomique><Capacite_Thermique>
+      0.168
+    </Capacite_Thermique><Potentiel_Ionisation>6.101</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      14.3
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1802</Point_Fusion><Enthalpie_Fusion>
+      17.15
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.57</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Erbium</Lien></Element><Element><Nom>Thulium</Nom><Numero_Atomique>69</Numero_Atomique><Masse_Atomique>168.9342</Masse_Atomique><Etat_Oxydation>3, 2</Etat_Oxydation><Point_Ebullition>2223</Point_Ebullition><Symbole>Tm</Symbole><Densite>
+      
+      9.32
+    </Densite><Configuration_Electronique>[Xe] 4f13 6s2 </Configuration_Electronique><Electronegativite>1.25</Electronegativite><Rayon_Atomique>1.77</Rayon_Atomique><Volume_Atomique>
+      18.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.16
+    </Capacite_Thermique><Potentiel_Ionisation>6.184</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      16.8
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1818</Point_Fusion><Enthalpie_Fusion>
+      16.8
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.56</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Thulium</Lien></Element><Element><Nom>Ytterbium</Nom><Numero_Atomique>70</Numero_Atomique><Masse_Atomique>173.04</Masse_Atomique><Etat_Oxydation>3, 2</Etat_Oxydation><Point_Ebullition>1469</Point_Ebullition><Symbole>Yb</Symbole><Densite>
+      
+      6.97
+    </Densite><Configuration_Electronique>[Xe] 4f14 6s2 </Configuration_Electronique><Electronegativite>1.1</Electronegativite><Rayon_Atomique>1.94</Rayon_Atomique><Volume_Atomique>
+      24.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.155
+    </Capacite_Thermique><Potentiel_Ionisation>6.254</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      34.9
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1092</Point_Fusion><Enthalpie_Fusion>
+      7.7
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.7</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Ytterbium</Lien></Element><Element><Nom>Lutétium</Nom><Numero_Atomique>71</Numero_Atomique><Masse_Atomique>174.967</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3668</Point_Ebullition><Symbole>Lu</Symbole><Densite>
+      
+      9.84
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d1 6s2 </Configuration_Electronique><Electronegativite>1.27</Electronegativite><Rayon_Atomique>1.75</Rayon_Atomique><Volume_Atomique>
+      17.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.15
+    </Capacite_Thermique><Potentiel_Ionisation>5.43</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      16.4
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1936</Point_Fusion><Enthalpie_Fusion>
+      18.6
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.56</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Lanthanoïde</Caracteristique><Ligne>8</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Lutétium</Lien></Element><Element><Nom>Hafnium</Nom><Numero_Atomique>72</Numero_Atomique><Masse_Atomique>178.49</Masse_Atomique><Etat_Oxydation>4</Etat_Oxydation><Point_Ebullition>4875</Point_Ebullition><Symbole>Hf</Symbole><Densite>
+      
+      13.31
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d2 6s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>1.67</Rayon_Atomique><Volume_Atomique>
+      13.6
+    </Volume_Atomique><Capacite_Thermique>
+      0.14
+    </Capacite_Thermique><Potentiel_Ionisation>6.65</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      23
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2504</Point_Fusion><Enthalpie_Fusion>
+      21.76
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.44</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>4</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Hafnium</Lien></Element><Element><Nom>Tantale</Nom><Numero_Atomique>73</Numero_Atomique><Masse_Atomique>180.9479</Masse_Atomique><Etat_Oxydation>5</Etat_Oxydation><Point_Ebullition>5730</Point_Ebullition><Symbole>Ta</Symbole><Densite>
+      
+      16.65
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d3 6s2 </Configuration_Electronique><Electronegativite>1.5</Electronegativite><Rayon_Atomique>1.49</Rayon_Atomique><Volume_Atomique>
+      10.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.14
+    </Capacite_Thermique><Potentiel_Ionisation>7.89</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      57.5
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>3293</Point_Fusion><Enthalpie_Fusion>
+      36
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.34</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>5</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Tantale</Lien></Element><Element><Nom>Tungstène</Nom><Numero_Atomique>74</Numero_Atomique><Masse_Atomique>183.85</Masse_Atomique><Etat_Oxydation>6, 5, 4, 3, 2</Etat_Oxydation><Point_Ebullition>5825</Point_Ebullition><Symbole>W</Symbole><Densite>
+      
+      19.3
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d4 6s2 </Configuration_Electronique><Electronegativite>2.36</Electronegativite><Rayon_Atomique>1.41</Rayon_Atomique><Volume_Atomique>
+      9.53
+    </Volume_Atomique><Capacite_Thermique>
+      0.13
+    </Capacite_Thermique><Potentiel_Ionisation>7.98</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      174
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>3695</Point_Fusion><Enthalpie_Fusion>
+      35.4
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.3</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>6</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Tungstène</Lien></Element><Element><Nom>Rhénium</Nom><Numero_Atomique>75</Numero_Atomique><Masse_Atomique>186.207</Masse_Atomique><Etat_Oxydation>7, 6, 4, 2, -1</Etat_Oxydation><Point_Ebullition>5870</Point_Ebullition><Symbole>Re</Symbole><Densite>
+      
+      21
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d5 6s2 </Configuration_Electronique><Electronegativite>1.9</Electronegativite><Rayon_Atomique>1.37</Rayon_Atomique><Volume_Atomique>
+      8.85
+    </Volume_Atomique><Capacite_Thermique>
+      0.137
+    </Capacite_Thermique><Potentiel_Ionisation>7.88</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      47.9
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>3455</Point_Fusion><Enthalpie_Fusion>
+      33.05
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.28</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>7</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Rhénium</Lien></Element><Element><Nom>Osmium</Nom><Numero_Atomique>76</Numero_Atomique><Masse_Atomique>190.2</Masse_Atomique><Etat_Oxydation>2, 3, 4, 6, 8</Etat_Oxydation><Point_Ebullition>5300</Point_Ebullition><Symbole>Os</Symbole><Densite>
+      
+      22.6
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d6 6s2 </Configuration_Electronique><Electronegativite>2.2</Electronegativite><Rayon_Atomique>1.35</Rayon_Atomique><Volume_Atomique>
+      8.43
+    </Volume_Atomique><Capacite_Thermique>
+      0.13
+    </Capacite_Thermique><Potentiel_Ionisation>8.7</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      87.6
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>3300</Point_Fusion><Enthalpie_Fusion>
+      29.29
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.26</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>8</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Osmium</Lien></Element><Element><Nom>Iridium</Nom><Numero_Atomique>77</Numero_Atomique><Masse_Atomique>192.22</Masse_Atomique><Etat_Oxydation>2, 3, 4, 6</Etat_Oxydation><Point_Ebullition>4700</Point_Ebullition><Symbole>Ir</Symbole><Densite>
+      
+      22.6
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d7 6s2 </Configuration_Electronique><Electronegativite>2.2</Electronegativite><Rayon_Atomique>1.36</Rayon_Atomique><Volume_Atomique>
+      8.54
+    </Volume_Atomique><Capacite_Thermique>
+      0.13
+    </Capacite_Thermique><Potentiel_Ionisation>9.1</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      147
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2720</Point_Fusion><Enthalpie_Fusion>
+      26.36
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.27</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>9</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Iridium</Lien></Element><Element><Nom>Platine</Nom><Numero_Atomique>78</Numero_Atomique><Masse_Atomique>195.08</Masse_Atomique><Etat_Oxydation>2, 4</Etat_Oxydation><Point_Ebullition>4100</Point_Ebullition><Symbole>Pt</Symbole><Densite>
+      
+      21.45
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d9 6s1 </Configuration_Electronique><Electronegativite>2.28</Electronegativite><Rayon_Atomique>1.39</Rayon_Atomique><Volume_Atomique>
+      9.1
+    </Volume_Atomique><Capacite_Thermique>
+      0.13
+    </Capacite_Thermique><Potentiel_Ionisation>9</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      71.6
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>2042.1</Point_Fusion><Enthalpie_Fusion>
+      19.66
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.3</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>10</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Platine</Lien></Element><Element><Nom>Or</Nom><Numero_Atomique>79</Numero_Atomique><Masse_Atomique>196.9665</Masse_Atomique><Etat_Oxydation>3, 1</Etat_Oxydation><Point_Ebullition>3130</Point_Ebullition><Symbole>Au</Symbole><Densite>
+      19.282
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s1 </Configuration_Electronique><Electronegativite>2.54</Electronegativite><Rayon_Atomique>1.46</Rayon_Atomique><Volume_Atomique>
+      10.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.128
+    </Capacite_Thermique><Potentiel_Ionisation>9.225</Potentiel_Ionisation><Conductivite_Thermique>
+      317
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>1337.58</Point_Fusion><Enthalpie_Fusion>
+      12.36
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.34</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>11</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Or</Lien></Element><Element><Nom>Mercure</Nom><Numero_Atomique>80</Numero_Atomique><Masse_Atomique>200.59</Masse_Atomique><Etat_Oxydation>2, 1</Etat_Oxydation><Point_Ebullition>629.88</Point_Ebullition><Symbole>Hg</Symbole><Densite>
+      
+      13.5336
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 </Configuration_Electronique><Electronegativite>2</Electronegativite><Rayon_Atomique>1.6</Rayon_Atomique><Volume_Atomique>
+      14.8
+    </Volume_Atomique><Capacite_Thermique>
+      0.140
+    </Capacite_Thermique><Potentiel_Ionisation>10.437</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      8.34
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>liquide</Etat><Point_Fusion>234.31</Point_Fusion><Enthalpie_Fusion>
+      2.292
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.49</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>6</Ligne><Colonne>12</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Mercure</Lien></Element><Element><Nom>Thallium</Nom><Numero_Atomique>81</Numero_Atomique><Masse_Atomique>204.383</Masse_Atomique><Etat_Oxydation>3, 1</Etat_Oxydation><Point_Ebullition>1746</Point_Ebullition><Symbole>Tl</Symbole><Densite>
+      
+      11.85
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 6p1 </Configuration_Electronique><Electronegativite>2.04</Electronegativite><Rayon_Atomique>1.71</Rayon_Atomique><Volume_Atomique>
+      17.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.129
+    </Capacite_Thermique><Potentiel_Ionisation>6.108</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      46.1
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>577</Point_Fusion><Enthalpie_Fusion>
+      4.27
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.48</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>6</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Thallium</Lien></Element><Element><Nom>Plomb</Nom><Numero_Atomique>82</Numero_Atomique><Masse_Atomique>207.2</Masse_Atomique><Etat_Oxydation>4, 2</Etat_Oxydation><Point_Ebullition>2023</Point_Ebullition><Symbole>Pb</Symbole><Densite>
+      
+      11.342
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 6p2 </Configuration_Electronique><Electronegativite>2.33</Electronegativite><Rayon_Atomique>1.75</Rayon_Atomique><Volume_Atomique>
+      18.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.129
+    </Capacite_Thermique><Potentiel_Ionisation>7.416</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      35.3
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>600.65</Point_Fusion><Enthalpie_Fusion>
+      4.77
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.47</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>6</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Plomb</Lien></Element><Element><Nom>Bismuth</Nom><Numero_Atomique>83</Numero_Atomique><Masse_Atomique>208.9804</Masse_Atomique><Etat_Oxydation>3, 5</Etat_Oxydation><Point_Ebullition>1837</Point_Ebullition><Symbole>Bi</Symbole><Densite>
+      
+      9.807
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 6p3 </Configuration_Electronique><Electronegativite>2.02</Electronegativite><Rayon_Atomique>1.7</Rayon_Atomique><Volume_Atomique>
+      21.3
+    </Volume_Atomique><Capacite_Thermique>
+      0.122
+    </Capacite_Thermique><Potentiel_Ionisation>7.289</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      7.87
+    </Conductivite_Thermique><Radioactif>false</Radioactif><Etat>solide</Etat><Point_Fusion>544.59</Point_Fusion><Enthalpie_Fusion>
+      11
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.46</Rayon_Covalent><Synthetique>false</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>6</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Bismuth</Lien></Element><Element><Nom>Polonium</Nom><Numero_Atomique>84</Numero_Atomique><Masse_Atomique>209</Masse_Atomique><Etat_Oxydation>4, 2</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Po</Symbole><Densite>
+      
+      9.3
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 6p4 </Configuration_Electronique><Electronegativite>2</Electronegativite><Rayon_Atomique>1.67</Rayon_Atomique><Volume_Atomique>
+      22.7
+    </Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>8.42</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      20
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>527</Point_Fusion><Enthalpie_Fusion>
+      13
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.53</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Pauvre</Caracteristique><Ligne>6</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Polonium</Lien></Element><Element><Nom>Astate</Nom><Numero_Atomique>85</Numero_Atomique><Masse_Atomique>210</Masse_Atomique><Etat_Oxydation>+/-1, 3, 5, 7</Etat_Oxydation><Point_Ebullition>610</Point_Ebullition><Symbole>At</Symbole><Densite>
+      
+      7
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 6p5 </Configuration_Electronique><Electronegativite>2.2</Electronegativite><Rayon_Atomique>1.45</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>
+      1.7
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>575</Point_Fusion><Enthalpie_Fusion>
+      12
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.47</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Halogène</Caracteristique><Ligne>6</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Astate</Lien></Element><Element><Nom>Radon</Nom><Numero_Atomique>86</Numero_Atomique><Masse_Atomique>222</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>211.4</Point_Ebullition><Symbole>Rn</Symbole><Densite>
+      
+      0.00973
+    </Densite><Configuration_Electronique>[Xe] 4f14 5d10 6s2 6p6 </Configuration_Electronique><Electronegativite>0</Electronegativite><Rayon_Atomique>1.34</Rayon_Atomique><Volume_Atomique>
+      50.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.094
+    </Capacite_Thermique><Potentiel_Ionisation>10.748</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      0.00364
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>202</Point_Fusion><Enthalpie_Fusion>
+      2.9
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Gaz rares</Caracteristique><Ligne>6</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Radon</Lien></Element><Element><Nom>Franciums</Nom><Numero_Atomique>87</Numero_Atomique><Masse_Atomique>223</Masse_Atomique><Etat_Oxydation>1</Etat_Oxydation><Point_Ebullition>950</Point_Ebullition><Symbole>Fr</Symbole><Densite>
+      
+      1.87
+    </Densite><Configuration_Electronique>[Rn] 7s1 </Configuration_Electronique><Electronegativite>0.7</Electronegativite><Rayon_Atomique>2.7</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>0</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      15
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>300</Point_Fusion><Enthalpie_Fusion>
+      2.1
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Alcalin</Caracteristique><Ligne>7</Ligne><Colonne>1</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Franciums</Lien></Element><Element><Nom>Radium</Nom><Numero_Atomique>88</Numero_Atomique><Masse_Atomique>226.0254</Masse_Atomique><Etat_Oxydation>2</Etat_Oxydation><Point_Ebullition>1413</Point_Ebullition><Symbole>Ra</Symbole><Densite>
+      
+      5.5
+    </Densite><Configuration_Electronique>[Rn] 7s2 </Configuration_Electronique><Electronegativite>0.89</Electronegativite><Rayon_Atomique>2.33</Rayon_Atomique><Volume_Atomique>
+      45.2
+    </Volume_Atomique><Capacite_Thermique>
+      0.094
+    </Capacite_Thermique><Potentiel_Ionisation>5.279</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      18.6
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>973</Point_Fusion><Enthalpie_Fusion>
+      8.37
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Alcalino-terreux</Caracteristique><Ligne>7</Ligne><Colonne>2</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Radium</Lien></Element><Element><Nom>Actinium</Nom><Numero_Atomique>89</Numero_Atomique><Masse_Atomique>227</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>3470</Point_Ebullition><Symbole>Ac</Symbole><Densite>  
+      10.07
+    </Densite><Configuration_Electronique>[Rn] 6d1 7s2 </Configuration_Electronique><Electronegativite>1.1</Electronegativite><Rayon_Atomique>1.88</Rayon_Atomique><Volume_Atomique>
+      22.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.12
+    </Capacite_Thermique><Potentiel_Ionisation>5.17</Potentiel_Ionisation><Conductivite_Thermique>
+      12
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>4</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Actinium</Lien></Element><Element><Nom>Thorium</Nom><Numero_Atomique>90</Numero_Atomique><Masse_Atomique>232.0381</Masse_Atomique><Etat_Oxydation>4</Etat_Oxydation><Point_Ebullition>5060</Point_Ebullition><Symbole>Th</Symbole><Densite>
+      
+      11.72
+    </Densite><Configuration_Electronique>[Rn] 6d2 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>1.8</Rayon_Atomique><Volume_Atomique>
+      19.9
+    </Volume_Atomique><Capacite_Thermique>
+      0.113
+    </Capacite_Thermique><Potentiel_Ionisation>6.08</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      54
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>2028</Point_Fusion><Enthalpie_Fusion>
+      15.65
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.65</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>5</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Thorium</Lien></Element><Element><Nom>Protactinium</Nom><Numero_Atomique>91</Numero_Atomique><Masse_Atomique>231.0359</Masse_Atomique><Etat_Oxydation>5, 4</Etat_Oxydation><Point_Ebullition>4300</Point_Ebullition><Symbole>Pa</Symbole><Densite>
+      
+      15.4
+    </Densite><Configuration_Electronique>[Rn] 5f2 6d1 7s2 </Configuration_Electronique><Electronegativite>1.5</Electronegativite><Rayon_Atomique>1.61</Rayon_Atomique><Volume_Atomique>
+      15
+    </Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>5.88</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      47
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1845</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>6</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Protactinium</Lien></Element><Element><Nom>Uranium</Nom><Numero_Atomique>92</Numero_Atomique><Masse_Atomique>238.029</Masse_Atomique><Etat_Oxydation>6, 5, 4, 3</Etat_Oxydation><Point_Ebullition>4407</Point_Ebullition><Symbole>U</Symbole><Densite>
+      
+      18.95
+    </Densite><Configuration_Electronique>[Rn] 5f3 6d1 7s2 </Configuration_Electronique><Electronegativite>1.38</Electronegativite><Rayon_Atomique>1.38</Rayon_Atomique><Volume_Atomique>
+      12.5
+    </Volume_Atomique><Capacite_Thermique>
+      0.12
+    </Capacite_Thermique><Potentiel_Ionisation>6.05</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      27.6
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1408</Point_Fusion><Enthalpie_Fusion>
+      15.48
+    </Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>1.42</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>7</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Uranium</Lien></Element><Element><Nom>Neptunium</Nom><Numero_Atomique>93</Numero_Atomique><Masse_Atomique>237.0482</Masse_Atomique><Etat_Oxydation>6, 5, 4, 3</Etat_Oxydation><Point_Ebullition>4175</Point_Ebullition><Symbole>Np</Symbole><Densite>
+      
+      20.45
+    </Densite><Configuration_Electronique>[Rn] 5f4 6d1 7s2 </Configuration_Electronique><Electronegativite>1.36</Electronegativite><Rayon_Atomique>1.3</Rayon_Atomique><Volume_Atomique>
+      21.1
+    </Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.19</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      6.3
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>912</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>8</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Neptunium</Lien></Element><Element><Nom>Plutonium</Nom><Numero_Atomique>94</Numero_Atomique><Masse_Atomique>244</Masse_Atomique><Etat_Oxydation>6, 5, 4, 3</Etat_Oxydation><Point_Ebullition>3505</Point_Ebullition><Symbole>Pu</Symbole><Densite>
+      
+      19.84
+    </Densite><Configuration_Electronique>[Rn] 5f6 7s2 </Configuration_Electronique><Electronegativite>1.28</Electronegativite><Rayon_Atomique>1.51</Rayon_Atomique><Volume_Atomique>
+      12.32
+    </Volume_Atomique><Capacite_Thermique>
+      0.13
+    </Capacite_Thermique><Potentiel_Ionisation>6.06</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      6.74
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>913</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>9</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Plutonium</Lien></Element><Element><Nom>Américium</Nom><Numero_Atomique>95</Numero_Atomique><Masse_Atomique>243</Masse_Atomique><Etat_Oxydation>6, 5, 4, 3</Etat_Oxydation><Point_Ebullition>2880</Point_Ebullition><Symbole>Am</Symbole><Densite>
+      13.7
+    </Densite><Configuration_Electronique>[Rn] 5f7 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>1.84</Rayon_Atomique><Volume_Atomique>
+      20.8
+    </Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6</Potentiel_Ionisation><Conductivite_Thermique>
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1449</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>10</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Américium</Lien></Element><Element><Nom>Curium</Nom><Numero_Atomique>96</Numero_Atomique><Masse_Atomique>247</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Cm</Symbole><Densite>
+      
+      13.5
+    </Densite><Configuration_Electronique>[Rn] 5f7 6d1 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>
+      18.3
+    </Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.02</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1620</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>11</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Curium</Lien></Element><Element><Nom>Berkélium</Nom><Numero_Atomique>97</Numero_Atomique><Masse_Atomique>247</Masse_Atomique><Etat_Oxydation>4, 3</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Bk</Symbole><Densite>
+      
+      14.79
+    </Densite><Configuration_Electronique>[Rn] 5f9 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.23</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>12</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Berkélium</Lien></Element><Element><Nom>Californium</Nom><Numero_Atomique>98</Numero_Atomique><Masse_Atomique>251</Masse_Atomique><Etat_Oxydation>3</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Cf</Symbole><Densite>
+      
+      15.1
+    </Densite><Configuration_Electronique>[Rn] 5f10 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.3</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1170</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Californium</Lien></Element><Element><Nom>Einsteinium</Nom><Numero_Atomique>99</Numero_Atomique><Masse_Atomique>252</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Es</Symbole><Densite>
+      
+      13.5
+    </Densite><Configuration_Electronique>[Rn] 5f11 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.42</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1130</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Einsteinium</Lien></Element><Element><Nom>Fermium</Nom><Numero_Atomique>100</Numero_Atomique><Masse_Atomique>257</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Fm</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f12 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.5</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1800</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Fermium</Lien></Element><Element><Nom>Mendélévium</Nom><Numero_Atomique>101</Numero_Atomique><Masse_Atomique>258</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Md</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f13 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.58</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1100</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Mendélévium</Lien></Element><Element><Nom>Nobélium</Nom><Numero_Atomique>102</Numero_Atomique><Masse_Atomique>259</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>No</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 7s2 </Configuration_Electronique><Electronegativite>1.3</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>6.65</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1100</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Nobélium</Lien></Element><Element><Nom>Lawrencium</Nom><Numero_Atomique>103</Numero_Atomique><Masse_Atomique>262</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Lr</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d1 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>
+      
+      10
+    </Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>1900</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Actinide</Caracteristique><Ligne>9</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Lawrencium</Lien></Element><Element><Nom>Rutherfordium</Nom><Numero_Atomique>104</Numero_Atomique><Masse_Atomique>261</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Rf</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d2 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>solide</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>4</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Rutherfordium</Lien></Element><Element><Nom>Dubnium</Nom><Numero_Atomique>105</Numero_Atomique><Masse_Atomique>262</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Db</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d3 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>5</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Dubnium</Lien></Element><Element><Nom>Seaborgium</Nom><Numero_Atomique>106</Numero_Atomique><Masse_Atomique>266</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Sg</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d4 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>6</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Seaborgium</Lien></Element><Element><Nom>Bohrium</Nom><Numero_Atomique>107</Numero_Atomique><Masse_Atomique>264</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Bh</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d5 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>7</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Bohrium</Lien></Element><Element><Nom>Hassium</Nom><Numero_Atomique>108</Numero_Atomique><Masse_Atomique>269</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Hs</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d6 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>8</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Hassium</Lien></Element><Element><Nom>Meitnerium</Nom><Numero_Atomique>109</Numero_Atomique><Masse_Atomique>268</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Mt</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d7 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>9</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Meitnerium</Lien></Element><Element><Nom>Darmstadtium</Nom><Numero_Atomique>110</Numero_Atomique><Masse_Atomique>269</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Ds</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 7s1 5f14 6d9 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>10</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Darmstadtium</Lien></Element><Element><Nom>Roentgenium</Nom><Numero_Atomique>111</Numero_Atomique><Masse_Atomique>272</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Rg</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s1 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>11</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Roentgenium</Lien></Element><Element><Nom>Copernicium</Nom><Numero_Atomique>112</Numero_Atomique><Masse_Atomique>277</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Cn</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Transition</Caracteristique><Ligne>7</Ligne><Colonne>12</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Copernicium</Lien></Element><Element><Nom>Ununtrium</Nom><Numero_Atomique>113</Numero_Atomique><Masse_Atomique>286</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Uut</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 7p1 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Inconnu</Caracteristique><Ligne>7</Ligne><Colonne>13</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Ununtrium</Lien></Element><Element><Nom>Flerovium</Nom><Numero_Atomique>114</Numero_Atomique><Masse_Atomique>289</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Fl</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 7p2 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Inconnu</Caracteristique><Ligne>7</Ligne><Colonne>14</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Flerovium</Lien></Element><Element><Nom>Ununpentium</Nom><Numero_Atomique>115</Numero_Atomique><Masse_Atomique>288</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Uup</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 7p3 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Inconnu</Caracteristique><Ligne>7</Ligne><Colonne>15</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Ununpentium</Lien></Element><Element><Nom>Livermorium</Nom><Numero_Atomique>116</Numero_Atomique><Masse_Atomique>293</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Lv</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 7p4 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Inconnu</Caracteristique><Ligne>7</Ligne><Colonne>16</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Livermorium</Lien></Element><Element><Nom>Ununseptium</Nom><Numero_Atomique>117</Numero_Atomique><Masse_Atomique>294</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Uus</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 7p5 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Inconnu</Caracteristique><Ligne>7</Ligne><Colonne>17</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Ununseptium</Lien></Element><Element><Nom>Ununoctium</Nom><Numero_Atomique>118</Numero_Atomique><Masse_Atomique>294</Masse_Atomique><Etat_Oxydation>null</Etat_Oxydation><Point_Ebullition>null</Point_Ebullition><Symbole>Uuo</Symbole><Densite>null</Densite><Configuration_Electronique>[Rn] 5f14 6d10 7s2 7p6 </Configuration_Electronique><Electronegativite>null</Electronegativite><Rayon_Atomique>null</Rayon_Atomique><Volume_Atomique>null</Volume_Atomique><Capacite_Thermique>null</Capacite_Thermique><Potentiel_Ionisation>null</Potentiel_Ionisation><Conductivite_Thermique>null</Conductivite_Thermique><Radioactif>true</Radioactif><Etat>gazeux</Etat><Point_Fusion>null</Point_Fusion><Enthalpie_Fusion>null</Enthalpie_Fusion><Chaleur_Vaporisation>null</Chaleur_Vaporisation><Rayon_Covalent>null</Rayon_Covalent><Synthetique>true</Synthetique><Caracteristique>Inconnu</Caracteristique><Ligne>7</Ligne><Colonne>18</Colonne><Description>null</Description><Lien>http://fr.wikipedia.org/wiki/Ununoctium</Lien></Element></Tableau_Periodique>
